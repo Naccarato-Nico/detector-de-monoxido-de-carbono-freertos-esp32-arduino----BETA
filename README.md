@@ -80,7 +80,19 @@ Para mitigar el riesgo de cortocircuitos por diferencias de potencial entre la c
 
 ---
 
-## 📸 Registro Fotográfico del Desarrollo
+## 📸 Registro Audio visual  del Desarrollo
 
-| 1. Disposición de Componentes | 2. Etapa de Alimentación y Cables | 3. Ensayo de Laboratorio Activo |
+
+
+https://github.com/user-attachments/assets/3ec4ede8-68e4-4da1-a7ef-1e847fdadf71
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-07-01 at 2 26 49 PM (1)" src="https://github.com/user-attachments/assets/3c7b858d-58c8-406d-94f1-62da30d6b2c8" />
+
+<img width="1160" height="1660" alt="WhatsApp Image 2026-07-01 at 2 28 48 PM" src="https://github.com/user-attachments/assets/be4f7683-99f0-4b95-b0e4-79330503dbb2" />
+
+
+https://github.com/user-attachments/assets/074ff269-02ba-4270-9b5f-038cda7a1ce5
+
+
+
 
