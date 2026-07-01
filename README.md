@@ -83,5 +83,4 @@ Para mitigar el riesgo de cortocircuitos por diferencias de potencial entre la c
 ## 📸 Registro Fotográfico del Desarrollo
 
 | 1. Disposición de Componentes | 2. Etapa de Alimentación y Cables | 3. Ensayo de Laboratorio Activo |
-| :---: | :---: | :---: |
-| ![Montaje Inicial](foto1.jpg) | ![Circuito de Alimentación](foto2.jpg) | ![Prueba Final con Alerta](foto3.jpg) |
+
